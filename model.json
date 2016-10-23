@@ -1,0 +1,23 @@
+{
+    "date": "2016-10-10",
+    "entries": [
+        {
+            "start": "2016-10-10T19:10:45Z",
+            "stop": "2016-10-10T20:03:45Z",
+            "id": "HN-1",
+            "desc": "something"
+        },
+        {
+            "start": "2016-10-10T20:03:45Z",
+            "stop": "2016-10-10T20:06:45Z",
+            "id": "HN-2",
+            "desc": "something"
+        }
+    ],
+    "current": {
+        "start": "2016-10-10T20:13:45Z",
+        "stop": null,
+        "id": "HN-2",
+        "desc": "something"
+    }
+}
